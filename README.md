@@ -36,3 +36,5 @@ Keep learning, keep building, and hopefully create something people actually fin
 ⭐ If you like one of my projects, feel free to star it!
 
 Thanks for visiting my profile! 👋
+![GitHub followers](https://img.shields.io/github/followers/SULAV666)
+![GitHub stars](https://img.shields.io/github/stars/SULAV666)
